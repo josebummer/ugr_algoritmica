@@ -1,6 +1,12 @@
 /*
-Problema de la mochila 0-1 donde N determina el numero de elementos y WM el tamaño maximo de la mochila, editar estos valores para cambiar el resultado.
+Problema de la mochila 0-1 donde N determina el numero de elementos y WM el tamaÃ±o maximo de la mochila, editar estos valores para cambiar el resultado.
 En el main se encutran los vectores donde van almacenadas las ganancias y los pesos de los elementos. Modificarlos para cambiar el resultado.
+
+Implementaciones de distintos algoritmos.
+
+Realizados por: Jose Antonio Ruiz Millan
+
+Algoritmica 2016/2017
 */
 
 #include <iostream>
