@@ -1,3 +1,11 @@
+/*
+Implementaciones de distintos algoritmos.
+
+Realizados por: Jose Antonio Ruiz Millan
+
+Algoritmica 2016/2017
+*/
+
 #include <iostream>
 
 using namespace std;
