@@ -1,3 +1,11 @@
+/*
+Implementaciones de distintos algoritmos.
+
+Realizados por: Jose Antonio Ruiz Millan
+
+Algoritmica 2016/2017
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <vector>
@@ -6,7 +14,7 @@
 
 using namespace std;
 
-//Asumimos que el vector es de tamaño 2^n
+//Asumimos que el vector es de tamaÃ±o 2^n
 
 void combinar(const vector<int> &izq, const vector<int> &der, vector<int> &res){
 	int i1 = 0, i2 = 0;
