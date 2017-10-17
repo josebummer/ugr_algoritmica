@@ -2,7 +2,7 @@
 
 Practicas realizadas junto a:
 
-Julio --> https://github.com/juliofg17
+Julio --> https://github.com/juliofgx17
 
 Adrian --> https://github.com/Adri6
 
