@@ -2,8 +2,8 @@
 
 Practicas realizadas junto a:
 
-Julio --> https://github.com/juliofgx17
+[@juliofgx17](https://github.com/juliofgx17)
 
-Adrian --> https://github.com/Adri6
+[@Adri6](https://github.com/Adri6)
 
-Alejandro --> https://github.com/yaku9
+[@yaku9](https://github.com/yaku9)
